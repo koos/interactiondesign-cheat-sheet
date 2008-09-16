@@ -1,0 +1,65 @@
+h1. Interactiondesign CheatSheet
+
+h2. Qualität und Softwarequalität
+
+h4. Qualität nach DIN EN ISO 8402, 1995
+table{border:1px solid black}. 
+|Qualität ist die Gesamtheit von Merkmalen einer Einheit bezülich ihrer Eignung, festgelegte und vorausgesetzte Erfordernisse erfüllen|
+
+h4. Softwarequalität nach DIN 55350
+table{border:1px solid black}. 
+|Qualität ist die Gesamtheit der Eigenschaften oder Merkmale, die ein Produkt also die Software) in Verwendung und (Weiter-)Entwicklung aufweist, um die gegebenen Anforderungen zu erfüllen|
+
+h4. Gebrauchsqualität
+table{border:1px solid black}. 
+|Die gestellten Anforderungen an Software ergeben sich aus dem +Nutzungskontext+. Als Qualitätsmerkmale sind anzusehen: +die Korrektheit+ von Software hinsichtlich der +realen Nutzungskontexte+: 
+# der Aufgabenangemessenheit
+# der Erwartungskonformität
+# der Steuerbarkeit
+# der Erlernbarkeit
+# der Selbstbeschreibungfähigkeit
+# der Individualisierbarkeit|
+
+h4. Produktqualität
+table{border:1px solid black}. 
+|Umfasst die Qualität der Software und besteht aus der Menge der Entwicklungsprodukte: +den Quellcode+, +den Binärcode+, +die Dokumentation+. Anforderungen bezüglich der Produktqualität ist die Korrektheit der Software bezüglich:
+# der Spezifikation
+# der Änderbarkeit
+# der Wiederverwendbarkeit
+# der Wartbarkeit|
+
+
+h4. Usability engineering
+table{border:1px solid black}.
+|Wissenschaft die sich auf Aktivitäten im Entwicklungsprozess, bezüglich der Schaffung von Gebrauchsqualitätb efassen. Sie entwickeln systematische, strukturierte Vorgehensmodelle für die Schaffung dieser Qualität|
+
+Usability engineering erfolgt +parallel+ zur Entwicklung d.h. es ist ein integraler Bestandteil des Entwicklungsprozesses. Die Frage stellt sich nach der +optimalen Integration+ von software und usability engineering. Hier kann eine Ausrichtung des Integrationsprozesses auf:
+# der Ebene des Modells oder
+# der Ebene der Aktivitäten im Prozess oder
+# der Ebene der Dokumente
+
+Wichtig für die Qualität des Gesamprozesses ist:
+# die iterative Entwicklung der Gebrauchstauglichkeit
+# die Dokumentation der Gesamtentscheidungen über die Aktivitäten, Kompromisse samt Kontext.
+
+h3. Übungsaufgaben
+
+h4. 1. Was ist Qualität
+...
+
+h4. 2. Wie erläutern Sie den Begriff der Softwarequalität einem interessierten Anwender von Software?
+...
+
+h4. 3. Wählen Sie eine Ihnen gut bekannte Anwendung aus und identifizieren und beschreiben sie konkrete Merkmalsausprägungen der Produkt- und Gebrauchsqualität
+...
+
+h4. 4. Nennen Sie mindestens drei Gründe, warum ein Entwicklungsprozess iterativ gestaltet sein sollte
+...
+
+h4. 5. Was ist die _Gebrauchstauglichkeit_?
+...
+
+h4. 6. Benennen Sie ein paar Merkmalsausprägungen bezüglich Produktqualität und Gebrauchsqualität.
+...
+
+h4. 7. ...
