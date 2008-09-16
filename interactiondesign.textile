@@ -45,21 +45,30 @@ Wichtig für die Qualität des Gesamprozesses ist:
 h3. Übungsaufgaben
 
 h4. 1. Was ist Qualität
-...
+
+Qualität ist die Gesamtheit von Merkmalen einer Einheit, die bezüglich ihrer Eignung, festgelegte und vorausgesetzte Erfordernisse zu erfüllen.
 
 h4. 2. Wie erläutern Sie den Begriff der Softwarequalität einem interessierten Anwender von Software?
+
+"Sie müssen sich vorstellen, dass Softwarequalität die Gesammtheit der Eigenschaften oder Merkmale, die Software in der Verwendung, Entwicklung und Weiterentwicklung aufweist um gegebene Anforderungen zu erfüllen.
+Diese Anforderungen können wir unterscheiden auf Anforderungen bezüglich der Software selber (Produktqualität) und Anforderungen bezüglich des Gebrauchs von Software (Gebrauchsqualität)."
+
+h4. 3. Benennen Sie ein paar Merkmalsausprägungen bezüglich Produktqualität und Gebrauchsqualität.
+
 ...
 
-h4. 3. Wählen Sie eine Ihnen gut bekannte Anwendung aus und identifizieren und beschreiben sie konkrete Merkmalsausprägungen der Produkt- und Gebrauchsqualität
-...
+h4. 4. Wählen Sie eine Ihnen gut bekannte Anwendung aus und identifizieren und beschreiben sie konkrete Merkmalsausprägungen der Produkt- und Gebrauchsqualität
 
-h4. 4. Nennen Sie mindestens drei Gründe, warum ein Entwicklungsprozess iterativ gestaltet sein sollte
-...
+_Was könnte man Vorstellen? Word? Excel? Mail?_
 
-h4. 5. Was ist die _Gebrauchstauglichkeit_?
-...
+h4. 5. Nennen Sie mindestens drei Gründe, warum ein Entwicklungsprozess iterativ gestaltet sein sollte
 
-h4. 6. Benennen Sie ein paar Merkmalsausprägungen bezüglich Produktqualität und Gebrauchsqualität.
+Der Entwicklungsprozess sollte iterativ erfolgen um:
+# Rückmeldungen von Benutzern im Entwicklungsprozess zu berücksichtigen.
+# ...
+# ...
+
+h4. 6. Was ist die _Gebrauchstauglichkeit_?
 ...
 
 h4. 7. ...
