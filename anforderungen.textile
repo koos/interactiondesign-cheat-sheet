@@ -1,0 +1,35 @@
+h1. Interactiondesign CheatSheet
+
+h2. Anforderungen
+
+h4. Was sind die _user needs_?
+table{border:1px solid black}. 
+|Die User needs sind alles was die vom System erwarten, brauchen und wünschen. Es sind *mentale Repräsentationen* der Benutzer.|
+
+Die Herausforderung besteht in der Überführung der Mentalen Repräsentationen in eine sprachliche (bzw. bildsprachliche) Repräsentation.
+
+* Mentales Modell -> Sprachliche Repräsentation
+
+h4. Probleme bei der Überführung
+
+# Benutzer wissen nicht was sie vom interaktivem System wollen.
+# Benutzern ist das interaktive System so selbstverständlich geworden, dass sie nicht verbalisieren können was ihre Erwartungen sind.
+# *Tacit knowledge*: Die Benutzer sind +Experten+, haben unglaubliche praktische Kompetenzen, können nicht sprachlich begründen warum sie was, oder was sie machen.
+# *Prozedurales Wissen*: Die Benutzer haben oft ausgeführte Bewegungsabläufe - auch nicht verbalisierbar (oder schwierig) - kein deklaratives Wissen.
+# *Implizites Wissen*: Den Benutzern ist das Wissen nicht bewusst - auch nicht verbalisierbar.
+
+Es müssen Techniken, Methoden angewendet werden - andere als sprachbasierte: z.B. *partizipatorisches prototyping*
+
+Weitere Phänomene die Benutzer aufweisen:
+# Bemessung einer Funktionalität einer außerordentlich hohen Priorität die sie bei derzeit Verwendeten interaktiven Systemen vermisst haben.
+# Benutzer formulieren *unvereinbare*, *wiedersprüchliche* oder *einander ausschließende* Bedürfnisse.
+# Benutzer sind vorsichtig: da sie die Sorge haben für Misserfolge verantwortlich zu machen.
+
+h4. Aufgabe des Prozesses der Identifikation von User-Needs:
+
+# Konflikte (logische, sonstige) durch +Nachfrage+ und +Verhandlungen+ beseitigen.
+# Bei Konflikten durch +trade offs+ Kompromisse erarbeiten.
+# *Latente user needs* zu *normativen user needs* erarbeiten.
+# User needs für den Entwicklungsprozess zugänglich machen (Dokumentieren, zeichnen, ...) - Versprachlichen.
+
+User needs werden gesucht um *funktionale* und *nicht funktionale* Anforderungen zu spezifizieren.
