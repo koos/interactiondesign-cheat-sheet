@@ -111,7 +111,34 @@ h4. Definition _Anforderungsentwurf_
 table{border:1px solid black}.
 |Der Prozess des Anforderungsentwurfs ist ein Teil der Softwareentwicklung die sich mit den Zielen der realen Welt, Funktionen und Einschränkungen bezüglich Softwaresystemen beschäftigt. Sie beschäftigt sich weiterhin mit den Beziehungen zwischen den Faktoren um das Verhalten der Software und ihrer Evolution, Weiterentwicklung über die Zeit und zwischen Softwareprodukten zu spezifizieren. |Requirements engineering is the branch of software engineering concerned with the real-world goals for, functions of, and constrains on software systems. It is also concerned with the relationship of these factors to precise specifications of software behavior, and to their evolution oover time and across software families.||
 
+Requirements Engineering *darf* nicht nur zu Anfang eines Prozesses stattfinden - wiederkehrender Task!
 
+h4. Der Prozess des Anforderungsentwurfes nach Nuseibeh und Easterbook umfasst folgende Aktivitäten:
+table{border:1px solid black}.
+|
+# Context and Groundwork
+# Requirements Elicitation
+# Modelling & Analysing requirements
+# Communicating requirements
+# Agreering requirements
+# Evolving requirements
+|
+
+-> Abbildung: Model
+
+Verschiedene Aktivitäten fallen unter die Stufen des Anforderungsentwurfs:
+# Context and Groundwork
+** Umstrittig
+** Schaffen einer Substantiellen Basis
+** Abschätzung der Projektkosten
+** Technische Machbarkeitsstudien
+** Risikoeinschätzungen
+** Erstelleung von Projektablaufsplänen
+# Requirements Elicitation
+# Modelling & Analysing requirements
+# Communicating requirements
+# Agreering requirements
+# Evolving requirements
 
 h3. Übungsaufgaben
 
