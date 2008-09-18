@@ -55,8 +55,6 @@ Diese Anforderungen können wir unterscheiden auf Anforderungen bezüglich der S
 
 h4. 3. Benennen Sie ein paar Merkmalsausprägungen bezüglich Produktqualität und Gebrauchsqualität.
 
-...
-
 h4. 4. Wählen Sie eine Ihnen gut bekannte Anwendung aus und identifizieren und beschreiben sie konkrete Merkmalsausprägungen der Produkt- und Gebrauchsqualität
 
 _Was könnte man Vorstellen? Word? Excel? Mail?_
@@ -69,6 +67,5 @@ Der Entwicklungsprozess sollte iterativ erfolgen um:
 # ...
 
 h4. 6. Was ist die _Gebrauchstauglichkeit_?
-...
 
 h4. 7. ...

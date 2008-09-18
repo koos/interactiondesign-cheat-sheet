@@ -33,3 +33,88 @@ h4. Aufgabe des Prozesses der Identifikation von User-Needs:
 # User needs für den Entwicklungsprozess zugänglich machen (Dokumentieren, zeichnen, ...) - Versprachlichen.
 
 User needs werden gesucht um *funktionale* und *nicht funktionale* Anforderungen zu spezifizieren.
+
+h3. Die Domäne
+
+h4. Definition Domäne nach Dix et al., 2004
+table{border:1px solid black}. 
+|Die Domäne ist das +Expertenwissen+ und +Expertenfertigkeiten+ für bestimmte Handlungsbereiche des realen Lebens|
+
+Dies können z.B. sein:
+# betriebliche Buchhaltung
+# Prozess-Steuerung
+# elektronischer Zahlungsverkehr
+
+Die Domäne besteht aus *Konzepten*, dem dazu notwendigem *Wissen* um *Aufgaben* auszuführen und bestimmte *Ziele* zu erreichen.
+
+* Konzepte -> Wissen -> Aufgaben -> Ziele
+
+h4. Das Domänen-Modell besteht aus
+table{border:1px solid black}. 
+|
+# Den Relevanten +Konzepten+,
+# dem dazugehörigen +Expertenwissen+ und die Expertenfertigkeiten und -fähigkeiten
+# weiteren, als +wesentlich erachteten Informationen+ (strukturelle, relationale und prozedurale)
+|
+
+Dokumentation kann:
+# Textuell - Ohne Zusatzwissen zu verstehen
+# Formalisiert - über graphische Darstellunen (Datenflussdiagramme, Sequenzdiagramme, ...), aktiviert sehr effektiv strukturelle Mentale Modelle
+
+*Domänenmodell ist Bestandteil der Dokumentation der Anforderungsspezifikation*
+
+h3. Der Nutzungskontext
+
+h4. Nutzungskontext nach DIN EN ISO 9241 11
+table{border:1px solid black}. 
+|Nutzungskontext: Benutzer, Aufgaben, Betriebsmittel (Hardware, Software, Materialien) und die physische und soziale Umgebung in der ein Produkt genutzt wird.
+|_context of use: Users, tasks, equipment (hardware, software and materials), and the physical and social environments in which a product is used_||
+
+Ziel der Ermittlung des Nutzungkontextes:
+# Dokumentation aller +wesentlichen Charakteristika+ *der Benutzer*, *ihrer Aufgaben*, *der Interaktionen zwischen den Benutzern untereinander und anderen Systemen*.
+# Die realen operativen Umgebunen des Systems, inklusive der Einflußgrößen, die Leistungen der Benutzer beeinflussen können und die Rand- oder Zwangsbedingungen sowie Anforderungen, die aus der Nutzung oder dem Nutzungskontext entstehen können.
+
+h4. Notwendigen Aktivitäten zur Ermittlung eines Nutzungskontextes:
+table{border:1px solid black}. 
+|
+# Definition des Ausmaßes des Nutzungskontextes für interaktive Syteme
+# Analyse der Aufgaben und des Arbeitssystems
+# Spezifikation der Benutzermerkmale
+# Beschreibung des kulturellen Kontextes und der organisatorischen Strukturen und Prozesse
+# Beschreibung der Charakteristika der Arbeits- und Betriebsmittel ausserhalb des interaktiven Systems
+# Beschreibung der Oertlichkeiten, der unmittelbaren Arbeitsmittel anderer Umgebungsmerkmale
+# Analyse der Implikationen des Nutzungskontextes
+# Validierungssitzung über die Erhebungen mit den _Stakeholdern_
+|
+
+Beispiele anhand Abbildungen im Text: Symbole werden je nach Kontext anders interpretiert. Zahlenreihe, Buchstabenreihe (I0,II,I2,I3,I4 - A,I3,C,D,E,F). Auch nur in Buchstabenreihen werden sie anders interpretiert (THE CHT vs. TAE CAT => THE CAT).
+
+Benutzer arbeiten sehr stark mit Figur-Grund-Erkennungsverfahren. Sie deuten die Figur abhängig vom Grund (Kontext) - Figur ist die _unabhängige_, Grund die _abhängige_ Variable. Der Grund gibt den interpretatorischen Rahmen an (oder eine Tendenz).
+Bei THE CAT leben Benutzer mit Konflikten, weil die Interpretation mit dem unmittelbaren Kontext übereinstimmt.
+*Interpretation hängt vom Benutzer und von seinem Kontext ab - nicht vom Absender!*
+
+h3. Anforderungen, Anforderungsermittlung, Zugänglichkeit von Anforderungen
+
+h4. Anforderungen unterscheiden sich in:
+table{border:1px solid black}.
+| +Funktionale Anforderungen+ sind *Funktionen* oder *Eigenschaften* (Organisationsfolgen, alternative Abläufe, Ausnahmebehandlungen, Geschäftsregeln, etc.) oder *Schnittstellen* (Vorgaben für Benutzerschnittstellen, Formate für Ein- und Ausgabedaten, Schnittstellendefinitionen externer Systeme)| +Nichtfunktionale Anforderungen+ sind *technische Anforderungen* (Effizienz, Lastverhalten, Entwurfsbeschänkungen aufgrund der Zielplattform) und *Qualitätsanforderungen* (Benutzbarkeit, Zuverlässigkeit, Sicherheit, Fehlertoleranz, Aufgabenangemessenheit, Migrierbarkeit, Wartbarkeit)||
+
+h4. Nach Nuseibeh und Easterbook umfasst der Anforderungsentwurf für Softwaresysteme:
+table{border:1px solid black}.
+|
+* den Prozess der Identifizierung der _stakeholder_ und ihrer _Bedürfnisse_
+* die Dokumentation der Prozessergebnisse so dass sie zugänglich sind für die _Analyse_, _Kommunikation_, _Implementierung_
+* Identifizierung -> Dokumentation
+|
+
+h4. Definition _Anforderungsentwurf_
+table{border:1px solid black}.
+|Der Prozess des Anforderungsentwurfs ist ein Teil der Softwareentwicklung die sich mit den Zielen der realen Welt, Funktionen und Einschränkungen bezüglich Softwaresystemen beschäftigt. Sie beschäftigt sich weiterhin mit den Beziehungen zwischen den Faktoren um das Verhalten der Software und ihrer Evolution, Weiterentwicklung über die Zeit und zwischen Softwareprodukten zu spezifizieren. |Requirements engineering is the branch of software engineering concerned with the real-world goals for, functions of, and constrains on software systems. It is also concerned with the relationship of these factors to precise specifications of software behavior, and to their evolution oover time and across software families.||
+
+
+
+h3. Übungsaufgaben
+
+h4. Was sind die realen operativen Umgebungen und die Einflußgrößen eines Systems?
+
+h4. Was sind Rand- und Zwanhgsbedingungen die aus der Nutzung oder dem Nutzungskontext entstehen können?
