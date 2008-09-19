@@ -1,0 +1,19 @@
+h1. Interactiondesign CheatSheet
+
+h2. Benutzermodellierung
+
+h3. Modelle der Benutzer
+
+h4. Klassifizierung von Benutzern
+
+h4. Stakeholdermodell
+
+h4. User Profile
+
+h4. Personae
+
+h3. Übungsaufgaben
+
+h4. Was ist Ihre Vorstellung wenn Sie das Wort "Benutzer" hören?
+
+h4. Wer ist/sind "der Benutzer"?
