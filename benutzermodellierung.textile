@@ -1,19 +1,224 @@
-testh1. Interactiondesign CheatSheet
+h1. Interactiondesign CheatSheet
 
 h2. Benutzermodellierung
 
+* **Wer sind Benutzer, und was sind ihre Ziele?* - Benutzer sind Individuen.
+* Es müssen Merkmale und Eigenschaften identifiziert werden, die gemeinsam auftreten um *Gruppen* zu bilden. -> Modellierung von Benutzern.
+* Es ist zwingend notwending!
+** Entwickler wissen nicht was die Benutzer brauchen
+** unterschiedliche Benutzer
+** Informatiker sind Benutzer einer spezifischen Domäne
+** Benutzbarkeit ist ein Job - Code schreiben der andere Job
+
+h4. Vorgehensmodell von Baxter
+table{border:1px solid black}. 
+|Schrittweises Vorgehen, iterative Verfeinerung:
+# Lerne was über dein Produkt
+# Lerne was über deine User (die stakeholder deines Produktes)
+# Dazu durchführen der Methoden um UserProfiles, Stakeholder, Personae, Szenarien zu finden, dokumentieren (3x)
+# Verfeinerung dieser Ergebnisse (3x)
+|
+
+Identifizierung von stakeholdern und das Erstellen der User Profiles ist ein *analytischer Prozess*
+* Ziel: *Erkentnissgewinn über die Benutzer, ihre Charakteristika und Ziele, Nutzungskontext*,
+* Die Erkenntnis-Dokumente wenig geeignet - sachlich, Tabellenform, sehr reduziert
+** Interaktionsprozesse, kognitive Prozesse können nicht nachvolzogen werden um gute Modelle herzustellen
+
+Erstellen von Personae eignet sich besser
+* Eine Empathie für die Benutzer kann aufgebracht werden
+* Detailiertere darstellung der Interaktionsprozesse und Benutzerperspektive
+
+Szenarien - Szenenbasiertes Interaktionsdesign
+* Füllen den benutzerorientierten Designprozess 
+
 h3. Modelle der Benutzer
+
+* Wir reden von *Benutzern* -> Erzeugen eines mentalen Modells
+* Jeder hat andere mentale Modelle, z.B. im Team
+* Mentale Modelle basieren auf eigenen Erfahrungen und Kenntnissen
+
+h4. Um Modelle von Benutzern zu erstellen ist ein strukturiertes Vorgehen notwending, das erarbeiten von:
+table{border:1px solid black}. 
+|
+# User Profiles
+# Personae
+# Szenarien
+|
+
+h4. Vergleich von User Profile, Persona, Szenario
+table{border:1px solid black}.
+|*Dokument*    | *Definition* | *Zielsetzung* | *Inhalt* |
+|*User Profile* | Detaillierte Beschreibung der Merkmale von Usern  | Sicherstellen, dass das Entwicklungsteam Kenntnisse über die hat, für die das System entwickelt wird und wen man für eine faktische Benutzerbeteiligung rekrutieren sollte  | Ziele, Arbeitsaufgaben, demographische Daten, Wissen, Ausbildung, Fertigkeiten, etc... |
+|*Persona* |Fiktionale Person, um einen typischen Benutzer zu beschreiben. basiert auf UserProfile  | Modelle von Benutzern, um im Designprozess damit zu arbeiten  |Identitt u. Foto. Status, Ziele, Aufgaben, Wissen, andere charakteristische Merkmale|
+|*Szenario* |Geschichte die Aufgaben, Aktivitäten, Informationen oder Interaktionen von bzw. für Menschen mit System erzählt | Um User in konkreten Kontexten lebendig werden zu lassen. Dient der Unterstützung des Design-Mitglieder beim Verstehen der Anwender und Entwickeln interaktiven Systeme |Kontext, Akteuer, Ziele, Ereignisse, Vor- und Nachbedingungen der Interaktion, etc.|
 
 h4. Klassifizierung von Benutzern
 
+h4. Benutzer können klassifiziert werden in
+table{border:1px solid black}.
+|*Art*    | *Beschreibung* | *Beispiel (Barcod-Scanner)*|
+|Primäre Benutzer | Solche die mit dem interaktivem System arbeiten und interagieren | Kassierer und Kassiererinnen |
+|Sekundäre Benutzer | Solche die das System nicht regelmäßig benutzen oder durch Zwischenpersonen | Kunden des Supermarktes |
+|Tertiäre Benutzer | Entscheidungsträger, oder Personen die in irgend einer Art betroffen sind | Filialleiter, Manager der Supermarktkette |
+|Anti Benutzer | Solche die unter keinen Umständen mit dem interaktivem System in Berührung kommen, einsetzen | ...Menschen die nicht in Supermärkten mit Barcodescannern einkaufen |
+
+*Eine* Sicht auf Benutzer!
+
 h4. Stakeholdermodell
 
-h4. User Profile
+h4. Definition: Stakeholder
+table{border:1px solid black}.
+|Stakeholder sind alle Personen(gruppen) die +Interessen in dem Entwicklungsprozess, bzw. dessen Ergebnissen haben +|
+
+h5. Beispiele:
+* User die mit dem System *direkt oder indirekt* mit dem System interagieren
+** Primäre, Sekundäre, Teritäre Benutzer
+* Systemadministratoren, Kaufentscheidungen, Produkte von Mitbewerbern
+
+Es ist wichtig verschiedene +Perspektiven+ zu entdecken um Stakeholder und ihre +Interessenslagen+ zu identifizieren.
+
+Techniken mit denen alle _relevanten_ oder _disjunkten_ Interessenslagen zu charakterisieren:
+* affinity diagramms
+* Faktorenanalyse
+
+h4. User Profiles
+
+h4. Definition: +User Profiles+
+table{border:1px solid black}.
+|Ein *User Profile* enthält in +Auflistungsform+ alle für einen bestimmten Stakeholder wesentlichen Merkmale samt der Ausprägungsattribute des jeweiligen Merkmals|
+
+Beispielhafte Merkmale:
+* demographische Charakteristiken
+* Berufserfahrung
+* aktuelle Position
+* Informationen zum Unternehmen
+* Fachwissen
+* spezielle Produkterfahrung
+* ...
+
+Die Herausforderung besteht darin an diese Daten für die Merkmalausprägung zu gelangen:
+* Methoden der empirischen Datenerhebung -> Je länger man sich mit dem Benutzer beschäftigt, desto mehr erfährt man über ihn.
+* Es ist ein *Erkentnissprozess*
+* Daher -> Iterative Gestaltung
+
+Es gibt zwei Möglichkeiten an die Daten zu kommen:
+* Man weiss wer die Benutzer sind
+* Beschaffen der Informationen über Benutzern
+** Marketing-Mitarbeiter
+** Domän-Spezialisten
+** Analysten
+** Managern
+** Marktforschungs-Instituten
+
+Techniken für die Datenerhebung:
+* Interviews
+* surveys
+* card sorting
+* Feldstudien
+* Beobachtung
+* wants & needs analysis
+* group task analysis
+
+h4. Verfeinerung von User Profiles nach Stone et. al.
+# Durch die Abdeckung +großer Wertebereiche+
+** Unterteilung in kleinere Gruppen die man stärker profilieren kann
+# Validierung ob User Profiles der Realität genügen
+** Änderungen an Gruppierungen vornehmen?
+** Einsatz Empirischer Methoden
+# Auswertung der Daten
+** Erarbeitung der These für die Verfeinerung - Iterativer Prozess - nicht nur pragmatische Kriterien einsetzen
+# Analyse der Daten in Hinblick auf die user und des Systems
+# Ableitungen der Anforderungen
 
 h4. Personae
+
+h4. Definition: Persona+
+table{border:1px solid black}.
+|Aspekte eines Menschen der anderen präsentiert oder durch diese wahrgenommen wird, bzw. eine Rolle oder eine Figur die durch den Autor oder Schauspieler Wahrgenommen wird.|
+
+* Filmfiguren
+* Charakterisierung der Benutzer in einer vorstellbaren Art und Weise
+* Lebhafte Vorstellung
+* Technik der Personenmodellierung mittels Personae ist Bestandteil der curricularen Empfehlungen für das Basismodul der MCI
+
+
+h4. Warum entwickelt man Persona?
+# Kommunikationsziele - lebhafte Vorstellung (Beschreibung mittels Adjektive/Verben)
+# Deutliche Kommunikation von wesentlichen Merkmalen der Akteure
+# Aktivierung von Prototypen-Vorstellungen aber nicht klischeehaft
+# Bilden die wichtig erachteten Aspekte des Systems ab (Nutzungskontext) 
+
+Arbeit mit Persona: eine Form des *user centered design*
+* Dokumentation in *narrativer Form*:
+** keine Fachkentnisse
+** Vorstellungskraft gestärkt
+
+h4. Vorteile bei der Verwendung von Personae im Designprozess
+* Synchronisation im Designteam
+* Verfügbarkeit
+* Konkrete Benutzermodellierung
+* Kommunikationsplattform im Team
+
+Bereicherung in Hinblick auf die:
+* Benutzerperspektiven
+* Ausführungen von Tasks
+* Aktivitäten
+* Informationsbedürfnisse-, -Wünsche versch. Benutzer
+* Interaktionsstile vesch. Benutzer
+
+Verfassen in *Erzählform* inkl.
+* Identität
+* Status
+* Ziele
+* ...
+
+*Wichtig: Dekorrelation der Persona und der Aktivitäten -> Szenarien*
+
+h4. TODO: ERGAENZEN!
+<!--
+  TODO Ergänzen
+-->
+
+h4. Der Persona Lifecycle nach Pruitt & Adlin
+...
+
+h4. Anzahl der Persona
+* Es werden Wertebereiche abgedeckt
+** Eine Persona wäre zu wenig - Werte aus dem Wertebereich gehen verloren
+** Zu viele Persone - zu viel Aufwand - Umgang schwierig - Unschärfe in der Modellierung
+** Prüfliste
+*** Abruf der wichtigen Charakteristika durch einen Identifier?
+*** Ausreichende Modellierung der als wichtig erhalteten Charakteristika?
+*** Sinvolle Erstellung einer weiteren Persone aufgrund einer bestimmter Fokussierung auf einen bestimmten Benutzerty oder Modus?
+
+h4. TODO: Weitermachen!
+<!--
+  TODO Weitermachen
+-->
+
+h4. Nachteile bei der Verwendung von Personae im Designprozess
 
 h3. Übungsaufgaben
 
 h4. Was ist Ihre Vorstellung wenn Sie das Wort "Benutzer" hören?
 
 h4. Wer ist/sind "der Benutzer"?
+
+h4. Was sind _mentale Modelle_?
+
+h4. Was ist ein _Modell_?
+
+Ein Modell ist ein als wesentlich erachteter Aspekt eines Systems.
+
+h4. Nennen und beschreiben Sie Techniken um die Interessenslagen von Stakeholdern zu charakterisieren.
+
+h4. Wie kann an die Merkmale der User gelangen werden? Welche Techniken werden zur Datenerhebung benutzt?
+
+h4. Wie verfeinert man nach Stone et al die User Profiles?
+
+h4. Was ist eine Personae?
+
+h4. Benennen Sie die Vorteile bei der Verwendung von Personae im Designprozess?
+
+h4. Wieviele Persona sollte man erstellen?
+
