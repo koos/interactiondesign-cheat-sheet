@@ -200,6 +200,49 @@ h4. Nachteile bei der Verwendung von Personae im Designprozess
 
 h3. Übungsaufgaben
 
+h4. Nennen Sie Gründe für die Benutzermodellierung
+
+# Teamsync - verschiedene Mentale Modelle im Team - auf einen Nenner bringen
+# ...
+# Benutzer kennenlernen, *warum?*
+
+h4. Welches Vorgehen ist dabei ratsam?
+
+Vorgehen nach Baxter:
+# Identifizieren der Stakeholder
+# Erstellen der User Profiles und der Personae
+# Erstellen von Szenarien
+
+h4. Welche Dokumente entstehen bei der Benutzermodellierung?
+
+# Stakeholder -> Tabellarisch
+# User-Profile -> Tabellarisch
+# Personae -> Tabellarisch/Narrativ
+# Szenario -> Narrativ
+# Use-Case -> Narrativ/Tabellarisch
+
+h4. Beschreiben Sie das Konzept der Primary, Secondary, Teritary User?
+
+...
+
+h4. Was bezeichnet der Begriff stakeholders? identifizieren Sie alle stakeholder aus Ihrem vorausgegangenem Beispiel.
+
+Ein stakeholder ist eine Person oder eine Personengruppe die bestimmte Interessen bezüglich des interaktiven Sytems besitzen (oder deren Entwicklung und Weiterentwicklung).
+
+...
+
+h4. Welche Gründe sprechen für und gegen die Personae?
+
+Pro:
+* Sync im Team (Mentale Modelle)
+* Verfügbarkeit von Personen (deskreptiv vorliegen)
+* Kommunikation der Benutzer gegenüber Stakeholdern, Team, ...
+
+Contra:
+* Fehlentscheidungen - Rattenschwanz - können auswirkungen auf den weiteren Projektverlauf haben
+* Wiederverwendung - von vergangenen Projekten
+* keine Einbeziehung von reeleen Personen
+
 h4. Was ist Ihre Vorstellung wenn Sie das Wort "Benutzer" hören?
 
 h4. Wer ist/sind "der Benutzer"?

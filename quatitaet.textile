@@ -48,24 +48,44 @@ h4. 1. Was ist Qualität
 
 Qualität ist die Gesamtheit von Merkmalen einer Einheit, die bezüglich ihrer Eignung, festgelegte und vorausgesetzte Erfordernisse zu erfüllen.
 
+Der Grad, in der ein Satz inhähernter Mekmale Anforderungen erfüllen (inhärent - Anhaftung)
+
 h4. 2. Wie erläutern Sie den Begriff der Softwarequalität einem interessierten Anwender von Software?
 
 "Sie müssen sich vorstellen, dass Softwarequalität die Gesammtheit der Eigenschaften oder Merkmale, die Software in der Verwendung, Entwicklung und Weiterentwicklung aufweist um gegebene Anforderungen zu erfüllen.
 Diese Anforderungen können wir unterscheiden auf Anforderungen bezüglich der Software selber (Produktqualität) und Anforderungen bezüglich des Gebrauchs von Software (Gebrauchsqualität)."
 
+_Die Produktqualität_ ist die Qualität hinsichtlich inhärenter Merkmale, wie z.B. Korrektheit bzgl. Spezifikationen, Änderungen, Code die das Produkt (Code, Binärcode, Dokumentation) erfüllen sollte.
+
+_Die Gebrauchsqualität_ ist die Qualität hinsichtlich inhärenter Merkmale, wie die Korrektheit bzgl. des Nutzungskontextes:
+# Aufgabenangemessenheit
+# Erlernbarkeit
+# Steuerbarkeit
+# Selbstbeschreibungsfähichkeit
+# Erwartungskonformität
+# Individualisierbarkeit
+die das Produkt erfüllen sollte.
+
 h4. 3. Benennen Sie ein paar Merkmalsausprägungen bezüglich Produktqualität und Gebrauchsqualität.
+
+Erlernbarkeit, ...
 
 h4. 4. Wählen Sie eine Ihnen gut bekannte Anwendung aus und identifizieren und beschreiben sie konkrete Merkmalsausprägungen der Produkt- und Gebrauchsqualität
 
 _Was könnte man Vorstellen? Word? Excel? Mail?_
 
-h4. 5. Nennen Sie mindestens drei Gründe, warum ein Entwicklungsprozess iterativ gestaltet sein sollte
+h4. 5. Nennen Sie mindestens drei Gründe, warum ein Entwicklungsprozess iterativ gestaltet sein sollte?
 
 Der Entwicklungsprozess sollte iterativ erfolgen um:
-# Rückmeldungen von Benutzern im Entwicklungsprozess zu berücksichtigen.
-# ...
-# ...
+* Auf kritische Rückmeldung von Benutzer kann reagiert werden
+* Verfeinerung von Benutzermodellen und Dokumente die im Entwicklungsprozess entstehen
+* Identifizieren von neuen Nutzungskontexten - neue Analysen
+* Überarbeitung der Nutzungskontexte
+* Anforderungen bzgl. der Software anpassen
+* Produkt und Gebrauchsqualität steigern
 
 h4. 6. Was ist die _Gebrauchstauglichkeit_?
+
+Das Ausmaß in dem ein Produkt durch bestimmte Benutzer genutzt werden kann der seine Ziele in einem bestimmten Nutzungskontext effizient und effektiv und zufriedenstellend erfüllen kann.
 
 h4. 7. ...

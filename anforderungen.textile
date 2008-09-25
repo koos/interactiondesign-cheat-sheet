@@ -148,6 +148,62 @@ Verschiedene Aktivitäten fallen unter die Stufen des Anforderungsentwurfs:
 
 h3. Übungsaufgaben
 
+h4. Wie ist der Begriff des Nutzungskontextes definiert
+
+Der Nutzungskontext sind die: 
+* Benutzer
+* Arbeitsaufgaben
+* Arbeitsmittels
+
+so wie die physische und soziale Umgebung in dem ein Produkt genutzt wird.
+
+h4. Was ist ein Benutzer
+
+Der Nutzer ist ein Mensch der mit dem Diaglogsystem (Interativem Sytem) arbeitet.
+
+h4. Welche Aktivitäten sind durchzuführen, um den Nutzungskontext zu ermitteln?
+
+(Konstituieren = Zusammensetzen; Eine Konstituente ist ein Element aus dem ein anderes besteht.)
+
+* Definiton der Konstituenten (was sind die Arbeitsmittel, Benutezr) und Ausmaß des Nutzungskontextes
+* Analyse der Aufgaben und der Arbeitsumgebung
+* Spezielle Identifizierung von Benutzermerkmale
+* Identifizierung des Kulturellen Kontextes und Organisatorischen Strukturen und Prozesse
+* Beschreibung der Charakteristika der Arbeits und Betriebsmittel ausserhalb des interaktiven Systems (Moped, Treppen laufen)
+* Beschreibung der Oertlickeiten der unmittelbaren Arbeitsmittel anderer Umegbungsmerkmale (Andere Räumlichkeiten, deren Arbeitsmittel, Umgebungsmerkmale)
+* Analyse und Implikationen des Nutzungskontextes
+* Validierung unter der Berückstigung der Stakeholderstimmen
+
+h4. Wählen und beschreiben Sie einen bekannten Nutzungskontext
+
+# Programmierer, Tastatur, ...
+# Programmierung, Schreiben von Dokumenten, Abhandeln von Meetings, Kundenabwicklung, E-Mail schreiben, Raum mit Fenstern, Küche, WC, Computer, Holztische, ...
+# Merkmale von Programmierer, Gründer, Studenten
+# Westliche Kultur, 10 Uhr Arbeitsbeginn, Open-End, Agil, Daily-Scrum, Agiles Development, Burnoutchart, ....
+# Kuli, Bürotische aus Holz, ....
+# Nachbarunternehmen, ...
+# ...
+# ...
+
+h4. Erläutern Sie die Bedeutung des Kontexstes für menschliches Wahrnehmen und Handeln anhand der Abbildung 2:
+
+# Das selbe Zeichen in zwei verschiedenen Kontexten verschieden interpretiert
+# Figur-Grund
+# Unabhängige Variable: Grund
+# Abhängige Variable: Figur
+
+h4. Erläutern sie den Begriff "Andforderung"
+
+Eine Anforderung ist eine Spezifikation die ein System erfüllen muss. Es gibt 
+# funktionale: Funktionen/Eigenschafen, z.B. Schnittstellen -> Ausgabeformat, Apis, Operationen, Geschäftsregeln, Abläufe, Ausnahmeregelungen
+# nicht funktionale: Technische (Lastverhalten, Effizienz, Entwurfsbeschränkungen) und Qualitätsanforderungen (Nutzbarkeit, ...)
+
+Anforderungen.
+
+h4. Skizzieren und erläutern Sie das Modell des requirements Engenieering
+
+....
+
 h4. Was sind die realen operativen Umgebungen und die Einflußgrößen eines Systems?
 
 h4. Was sind Rand- und Zwanhgsbedingungen die aus der Nutzung oder dem Nutzungskontext entstehen können?
