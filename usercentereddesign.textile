@@ -1,0 +1,18 @@
+h3. Übungsaufgaben
+
+h4. 1. Was versteht man unter dem user-centered design Ansatz? Nennen Sie Gründe für die Entwicklung interaktiver Systeme nach diesem Ansatz.
+
+* Grundhaltung bezüglich des Entwicklungsprozesses für Artefakte die von Menschen genutzt werden. Keine Methode oder Technik. Diese Grundhaltung äußert sich darin, dass die Benutzer in allen Stufen des Entwicklungsprozesses miteingebunden werden.
+
+* Gründe für die Entwicklung nach UCD
+** Entwickler sollten sich um Benutzerperspektive berreichern.
+** Denn: Gesamtqualität = Produktqualität + Gebrauchsqualität
+** Das menschliche Handeln soll unerstützt werden
+
+h4. 3. Erläutern Sie den usability engineering Ansatz von Rosson und Carroll. Diskutieren Sie ihn kritisch.
+
+h4. 4. Erläutern Sie das Vorgehensmodell des discount usability engineering nach Nielsen. Diskutieren Sie ihn kritisch.
+
+h4. 5. Warum nennen Constantine und Lockwood ihr Modell für die Entwicklung interaktiver Systeme usage centered design? Charakterisieren Sie dieses Vorgehensmodell. 
+
+h4. 6. Erläutern Sie den usability lifecycle von Deborah Mayhew. Diskutieren Sie ihn kritisch.

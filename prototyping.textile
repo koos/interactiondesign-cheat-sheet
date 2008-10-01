@@ -4,17 +4,58 @@ h2. Prototypen und Prototyping
 
 h3. Prototypen
 
-Definition _Prototyp_
-table{border 1px solid black}
-|Alle medial basierten Instanzen von Modellen|
+h4. Definition _Prototyp_
 
-*Unterschied zwischen Prototypen:*
+Als Prototypen (von griechisch: „der erste“) wollen wir alle medial-basierten Instanzen von Modellen bezeichnen. Während Modelle Repräsentationen von Systemen sind, und daher nicht materiegebunden, z.B. kognitive, d.h. mentale Repräsentationen bleiben können, basieren Prototypen immer auf medialen Repräsentationen.
+
+*Verschiedene Arten von Prototypen in der Literatur vs. Plaßmannsche Variante:*
 * Computer-based vs. Paper-based
 * animierbare vs. interagierbare
 
+Was ist "Prototyping"?
+
+* Eine Methode, einen Prototypen herzustellen. Dies kann durch verschiedene Techniken geschehen.
+
 Was ist der Nutzen, die Gefahren bei der Verwendung von Prototypen?
-Welche Eigenschaften haben Prototypen?
-Wie kategorisiert man Prototypen?
+
+* Nutzen
+** Kommunikationshilfe (Mit-Entwickler, Stakeholder)
+** ermöglicht frühe Evalutation (relevanter Aspekte)
+* Gefahren
+** werden nicht weggeschmissen
+** zu frühe Festlegung auf eine Gestaltungslösung
+** Fehleinschätzungen oder Missverständnissen, da ein Prototyp immer nur bestimmte eines Systems fokussiert und dadurch möglicherweise überbetont
+** Prototyp wird durch Benutzer nicht verstanden, da nicht abstraktionsfähig
+** Bei der Nicht-Einhaltung von Größe, Position, etc. von Widgets können Missverständnisse auf Seiten der Stakeholder auftreten (Gestaltungsraster, ...)
+
+Welche Gründe sprechen für die Verwendung von Prototypen im Entwicklungsprozess interaktiver Systeme?
+
+* schnell erstellt
+* kostengünstig
+* frühe Evaluation möglich
+
+Welche verschiedenen Arten von Prototypen kennen Sie. Erläutern Sie Vorzüge und Nachteile.
+
+* Computer-based vs. paper-based
+* animierte vs. interaktive
+
+table{border:1px solid #000}.
+| Typ							| *Vorteile* | *Nachteile* |
+| paper-based 		| schnell gezeichnet, leicht änderbar, leicht wegwerfbar, kommuniziert Vorläufigkeit, können in frühen Phasen des u-e eingesetzt werden | keine Möglichkeit der direkten Interaktion, beschränkte Möglichkeiten der Animation |
+| computer-based 	| Animationsmöglichkeiten, ... | Stakeholder können Prototyp fehleinschätzen mangels Abstraktionsfähigkeit ("Soooo soll das mal werden?!")  |
+
+Welche Techniken des prototypings kennen Sie? Wann verwendet man welche Technik? Ausführliche Erläuterung notwendig.
+
+* requirements animation
+* rapid prototyping
+* incremental prototyping
+* evolutionary prototyping
+* horizontal/vertical prototyping
+* high fidelity/low fidelity prototyping
+* chauffeured prototyping
+* Wizard of Oz prototyping
+* participatory prototyping
+* periodic prototyping
 
 h4. Beweggründe zur Schaffung von Prototypen
 
