@@ -4,9 +4,13 @@ h2. Prototypen und Prototyping
 
 h3. Prototypen
 
-Definition _Prototy_
+Definition _Prototyp_
 table{border 1px solid black}
 |Alle medial basierten Instanzen von Modellen|
+
+*Unterschied zwischen Prototypen:*
+* Computer-based vs. Paper-based
+* animierbare vs. interagierbare
 
 Was ist der Nutzen, die Gefahren bei der Verwendung von Prototypen?
 Welche Eigenschaften haben Prototypen?
@@ -48,12 +52,107 @@ table{border 1px solid black}
 
 h4. Paper-based Prototyping
 
-...
+* Hand-Skizzen
+* Zeichnungen
+* Storyboards
+* Skripte
+
+h5. Eigenschaften von Paper-based-Prototypes
+
+* zeit-statische Abbilder eines interface Entwurfes
+
+h5. Vorteil
+
+* schnell hergestellt
+* leicht änderbar - man kann sich leicht von ihnenen trennen
+* simulation von zeitlichen Abfolgen (Simulation von Interaktionsdramaturgie)
+* keine direkte Möglichkeit der Interagierbarkeit
+* Grobe Entwürfe - bei der Kommunikation gut, da bestimmte Aspekte vernachlässigt werden, die die Aufmerksamkeit anziehen würden
+* Kommunikation dass noch nichts festgelegt ist. Sie kommunizieren:
+** dass die Entwürfe für die Benutzer geschaffen wurden
+** dass das Designteam offen für Änderungen ist
+** dass die Prototypen schnell verworfen werden können
+** dass nur bestimmte Aspekte im Vordergrund stehen
+** dass die Entwürfe nicht zu Schade zum wegwerfen sind
+
+Wichtig ist die *kohärente* Darstellung von Prototypen wenn man sie in einem Team entwicket.
+
+Man kann Paperbasedprototypen auch auf Overheadfolien und anderen Medien präsentieren - übereinander legen, Änderungen präsentieren
+
+h5. Praktische Tipps bei der Erstellung und Verwendung (Evaluation) von Paperbased Prototypen
+
+*Bezüglich Größe, Position, Proportion*
+* Benutzer benötigen Orientierungshilfen
+* Hinweise geben - Proportionen, Rahmen zeichnen, Klebestreifen, abgrenzen
+
+*Bezüglich der Struktur*
+* Mit den Gestaltungsregeln strukturieren
+* *Gestaltungsraster*
+** ausrichten die Interaktionsobjekte im Raum
+** Unterstützung für die Benutzer bzgl. der Orientierung
+** Die Qualität des menschlichen Problemlösens hängt von der Güte der Struktur ab und der gegebenen Informationen zu dem lösendem Problem zu den mentalen Wissensrepräsentationen der Menschen passt.
+** Aufgabenbezogenes menchliches Handeln wird besser auf dem interface unterstützt.
+
+Andere Medien (ausser gezeichnete interfaces) für Prototyping
+* Klebezettel
+* Overhead Folien
+
+h5. Technik des Storyboard
+Stammt aus der Filmbranche - erste visualisierung des Drehbuches.
+
+table{border: 1px solid black}.
+|Ein Storyboard ist ein graphischisch repräsentiertes Modell des Films|
+
+Sie bietet
+* eine erste visuelle Gestaltunng des Filmes dar (inkl. Transittionen,  Einstellungröße)
+* eine Kommunikationsplattform für weitere Gestalerische Entscheidungen - mergen von den mentalen Modellen der Film-crew
+* eine Unterstützung für das Erarbeiten von weiteren Gestaltungsalternativen
+
+Analog verhalten sich Storyboards bei der Gestaltung interaktiver Systeme:
+* Kommunikation im Entwicklungsteam (interdisziplinäres) 
+* Kommunikation mit stakeholdern in Rahmen der Anforderungsermittlung
+* Evaluierung der konzeptuellen Modelle mit den Benutzern
+
+Weiterhin kann man Storyboards annotieren, durch Skripte erweitern.
 
 h4. Computer-based Prototyping
 
-....
+Computer-Based Prototypes
+table{border: 1px solid black}.
+|Stellen funktional-repräsentierende Entwürfe des interaktiven Systems dar|
 
+Partielle implementierte oder simulierte Systemfunktionen eines interaktiven Systems - Software-Repräsentationen.
+
+Diese Entwürfe können mithilfe von:
+* Multimedia-Authoring-Tols - Systemfeedback animiert, implementiert
+* User-Interface Management Systems - voll ausgeprägte Interaktivität und graduell/vollständig ausgeprägte Funktionalität
+
+entwickelt werden.
+
+h5. Exkurs: User-Interface Management Systems (UIMS)
+
+"http://www.interaction-design.org/encyclopedia/uims_user_interface_management_system.html":http://www.interaction-design.org/encyclopedia/uims_user_interface_management_system.html
+
+h5. Gefahren beim Verwenden von Computerbased Prototypen
+
+* Prototypen sind nicht lesbar von Benutzern
+* die Einsicht der Benutzer ist nicht gegeben
+* Prototypen zeigen nur Ausschnitte eines Systems - kann später zu Missverständnissen führen
+
+h4. Techniken des Prototyping
+
+# Requirements animation
+# rapid prototyping
+# incremental prototyping
+# evolutionary prototyping
+# horizontal prototyping
+# vertical prototyping
+# high fidelity prototyping
+# low fidelity prototyping
+# chauffeured prototyping
+# wizard of oz prototyping
+# partiipatory prototyping
+# periodic prototyping
 
 h3. Fragen
 
@@ -62,3 +161,13 @@ h4. Was ist ein Prototyp und was bedeutet Prototyping?
 h4. Worin sollte sich Ihrer Ansicht nach das Vorgehen bei der Software-Entwicklung für interaktive Systeme unterscheiden, wenn man mit bzw. ohne Prototypen arbeitet?
 
 h4. Nennen Sie Argumente für und wieder die Verwenung von prototyping Techniken im Software-Entwicklungsprozess für interaktive Systeme.
+
+h4. Was versteht man unter einem Prototyp
+
+h4. Welche Gründe sprechen für die Verwendung von Prototypen im Entwicklungsprozess interaktiver Systeme?
+
+h4. Welche Gefahren bestehen bei der Verwendung von Prototypen?
+
+h4. Welche verchiedenen Arten von Prototypen kennen Sie? Erläutern Sie Vorzüge und Nachteile.
+
+h4. Welche Techniken des prototypings kennen Sie? Wann verwendet man welche Technik? Ausführliche Erläuterung notwendig.
