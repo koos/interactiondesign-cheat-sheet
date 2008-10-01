@@ -1,0 +1,42 @@
+h4. Usecase Methode nach Cockburn
+
+# Usecase (Tabellarisch)
+# Usecase-Brief (Tabellarisch)
+# Summary-Usecases (...)
+# main succsess szenario (...)
+# Essential-Usecase (...)
+
+h4. Rosson und Carroll
+
+# Problemszenarien
+# Aktivitätsszenarien
+# Informationsszenarien
+# Interaktionsszenarien
+
+h4. Usecase Methode nach Maythew
+
+# OUC - Persona Usecase
+# UGUC - User Goal Usecase
+
+h3. Übungsaufgaben
+
+h4. Was ist ein Use-Case und wozu verwendet man den?
+
+table{border:1px solid black}.
+
+h5. Use-case
+|Stellt ein Modell dar, wie Benutzer eine Funktion eines Systems verwenden um ihre Aufgaben zu bewältigen|
+
+* Um allgeine Handlungsabfolgen zu beschreiben, dem zugrunde liegendem Ziel
+* formal spezifiziert (UML)
+* Tabellarisch / Storyboard - Abfolgesequenz in nicht narrativer form
+
+h4. Was ist ein Szenario und im welchem Verhältnis steht dieser Begriff zum use-case
+
+h5. Szenario
+table{border:1px solid black}.
+|Stellt ein Modell dar, wie konkrete Benutzer eine Funktion eines Systems im bestimten Nutzungskontext verwenden um ihre Aufgaben zu bewältigen - Instanz eines Use-cases.|
+
+h4. Entwickeln Sie nach Cockburn ein Use-case zur Anwendung Ihrer Wahl
+
+h4. Entwickeln Sie ein Summary-Use-Case ihrer Wahl

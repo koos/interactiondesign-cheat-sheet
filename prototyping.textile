@@ -1,0 +1,64 @@
+h1. Interactiondesign CheatSheet
+
+h2. Prototypen und Prototyping
+
+h3. Prototypen
+
+Definition _Prototy_
+table{border 1px solid black}
+|Alle medial basierten Instanzen von Modellen|
+
+Was ist der Nutzen, die Gefahren bei der Verwendung von Prototypen?
+Welche Eigenschaften haben Prototypen?
+Wie kategorisiert man Prototypen?
+
+h4. Beweggründe zur Schaffung von Prototypen
+
+* Analyse von Anforderungen - _requirements analysis_
+* Schaffung von:
+** frühen Repräsentationen von Systemeigenschaften
+** konzeptuellen  Modellen von Systemen
+
+h4. Unterschied von Prototypen zum Endsystem
+
+* Größe des Systems
+* Verlässlichket der Systemkomponenten
+* Detaliertheit der Implementierung
+* Vollständigkeit des Systemumfangs
+* Roustheit der Systemkomponenten
+* Beschaffenheit der Systemkomponenten
+
+h4. Eigenschaften von Prototypen
+
+* throw-aways - weg werfen!
+** sonst legt man sich zu früh auf eine Lösung fest - verbaut sich den Weg zu Alternativen
+** der Prototyp bietet zu viele Kompromissse, Abhängigkeiten, Unzulänglichkeiten - Beeinträchtigung des zu entwickelnden Systems
+* Gestaltungsproblem - Prototyp = 1:n-Beziehung
+* Denkbare Lösungen werden mittels der Evaluation bestimmt
+
+Nicht zu schnell auf eine Lösung festlegen (auf basis von weniger Prototypen) - Alternativen erarbeiten - verschmelzen lassen. Durch den iterativen Entwicklungsprozess möglich.
+
+Prototypen fördern:
+* den Erkentnissprozess - Analyse-Evaluation
+* die Einigung auf Kompromisse (trade offs)
+
+Prototypen:
+table{border 1px solid black}
+|Der Prototypenbasierte Ansatz fordert alternative Entwürfe zuzulassen, zu evaluieren und eine iterative Systhese (finden von Lösungen) der als gut erachteten Aspekte zu versuchen|
+
+h4. Paper-based Prototyping
+
+...
+
+h4. Computer-based Prototyping
+
+....
+
+
+h3. Fragen
+
+h4. Was ist ein Prototyp und was bedeutet Prototyping?
+
+h4. Worin sollte sich Ihrer Ansicht nach das Vorgehen bei der Software-Entwicklung für interaktive Systeme unterscheiden, wenn man mit bzw. ohne Prototypen arbeitet?
+
+h4. Nennen Sie Argumente für und wieder die Verwenung von prototyping Techniken im Software-Entwicklungsprozess für interaktive Systeme.

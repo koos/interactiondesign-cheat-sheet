@@ -249,6 +249,8 @@ h4. Wer ist/sind "der Benutzer"?
 
 h4. Was sind _mentale Modelle_?
 
+Eine Mentale Repräsentation eines wichtig erachtendes Aspektes eines Systems.
+
 h4. Was ist ein _Modell_?
 
 Ein Modell ist ein als wesentlich erachteter Aspekt eines Systems.
@@ -259,9 +261,27 @@ h4. Wie kann an die Merkmale der User gelangen werden? Welche Techniken werden z
 
 h4. Wie verfeinert man nach Stone et al die User Profiles?
 
+Techniken der empirischen Datenerhebung
+# Interviews
+# Beobachtung
+# Feldstudien
+# Surveys (Umfragen)
+# wants & needs analysis
+# group tasks analysyse
+
 h4. Was ist eine Personae?
+
+Aspekte eines Menschen der anderen Präsentiert oder durch andere Wahrgenommen wird. (Einnehmen einer Rolle oder einer Figur durch einen Schauspieler)
 
 h4. Benennen Sie die Vorteile bei der Verwendung von Personae im Designprozess?
 
 h4. Wieviele Persona sollte man erstellen?
 
+# User Profiles geben einen Wertebereich an Charakteristiken an:
+** Um den Wertebereich abzudenken, sollen genügend Persoae erstellt werden
+** Wenn zu viele enstehen, dann kann man nicht mehr damit arbeiten - das es nicht mehr kommunizierbar ist
+
+Prüfsumme:
+* gelingt es die Persone nach Name und Bild abzurufen (Identifier)
+* Sind die Merkmale ausreichend modelliert
+* Erstellen von Persona wenn bestimmte Nutzerverhalten nicht aussreichend modelliert sind

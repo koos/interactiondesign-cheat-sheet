@@ -1,0 +1,220 @@
+h1. Interactiondesign CheatSheet
+
+h2. Regelwerke zur Gestaltung von Benutzungsschnittstellen
+
+Vornehmliches Ziel der Mensch-Computer-Interaktion ist das Sichern der Gebrauchstauglichkeit. Die Regelwerke für Gestaltung beziehen sich daher auf diese Qualität.
+
+h3. Arten von Regelwerken
+
+Man unterscheidet zwischen 4 Arten von Regelwerken:
+
+# Prinzipien
+
+
+{border:1px solid black}. 
+|Abstrakte Regeln für die Gestaltung|
+
+** Abstrakt - auf alle Formen und Ausprägungen von interaktiven Systemen anwendbar
+** Abgeleitet von wissenschaftlichen Erkentnissen (Psychologie, ...)
+** technologie und kontextunabhängig
+** Fundierte Kenntnisse von Entwicklern in Grundlagenwissenschaften notwendig und methodische und technische Sicherheit der Operationalisierung der Prinzipien hinsichtlich konkreter Fragestellungen.
+# Standards
+
+table{border:1px solid black}. 
+|Spezifische Gestaltungsregeln mit verbindlichem Charakter|
+
+** Spezifische Gestaltungsregeln - verbindlicher Charakter
+** Geringerer Anspruch auf Allgemeingültigkeit - nicht für alle Anwendungsbereiche
+** Beispielweise Hinweise für die Umsetzung
+# Guidelines
+
+table{border:1px solid black}. 
+|Regeln mit einem a priori verbindlichem Charakter von Standards, es sei denn sie sind an styleguides von Herstellern gebunden|
+
+** Allgemeingültiger hinsichtlich des Anwendungsbereiches
+** Kein hoher Abstraktionsgrad (wie Prinzipien) aber höherer als Standards
+** Theoretische Kenntnisse von Entwicklern notwendig um Guidelines zu adaptieren
+# Heuristiken/Goldene Regeln
+
+table{border:1px solid black}. 
+|Sind spezifische Gestaltungsregeln|
+
+** Spezifische Gestaltungsregeln
+** konkret, einfach formuliert aber auf ein konkretes System
+** Empfehlungkarakter
+
+h4. Klassifikation von Regelwerken
+
+# Nach dem Grad der Verbindlichkeit:
+## Standards
+## Guidelines
+## Prinzipien
+## Heuristiken
+# Nach den Kentnissen der Entwickler:
+## Prinzipien
+## Guidelines
+## Standards
+## Heuristiken
+# Allgemeingültigkeit:
+## Prinzipien
+## Guidelines
+## Standards
+## Heuristiken
+
+h4. Prinzipien
+
+Haben den größten Abstraktionsgrad. Mit deren Hilfe lassen sich Entscheidungen über das Interaktions-Paradigma für das interaktive System treffen.
+Drei Hauptkategorien von Prinzipien:
+# Das Prinzip der *Erlernbarkeit*
+# Das Prinzip der *Flexibilität*
+# Das Prinzip der *Robustheit*
+
+h5. Das Prinzip der *Erlernbarkeit* bezieht sich auf Mermale des interaktiven Systems, sodass es *Erstbenutzern* hilft das System erfolgreich und effizient benutzen zu können. Einen wesentlichen Beitreig leisten:
+
+# Die Vorhersagbarkeit (Bestimmung von Konsequenzen einer zukünftigen Interaktion aufgrund der vergangenen Interaktionen)
+# Die Synthesierbarkeit (Angemessene Bewertung des Systemzustandes aufgrund vergangener Interaktionen)
+# Die Vertrautheit (Anwendung von Erfahrungen und Kentnissen aus der realen o. virtuellen Welt für die Interaktion)
+# Die Allgemeingültigkeit (Verwendung von Wissen und Erfahrungen aus ähnlichen Situationen können auf die Interaktion angewendet werden)
+# Die Konsistenz (Ähnliche Situationen, Aufgaben weisen ähnliches Verhalten an den Ein- und Ausgabeschnittstellen auf)
+
+h5. Das Prinzip der Flexibilität bezieht sich auf Mermale des Systems die es gestatten auf versch. Weise und nach den Bedürfnissen der Benutzer Informationen zwischen dem System und den Benutzern auszutauschen. Untergeordnete Prinzipien sind:
+
+# Dialoginitiative (Benutzer sollen frei von künstlichen Restriktionen sein)
+# Multi-Threading (Bearbeitung mehrere Aufgaben möglich)
+# *Aufgabenweiterführung* (...)
+# Ersetzbarkkeit (Ersetzen der Ein-/Ausgabewerte durch äquivaente andere z.b. Kodalitäten)
+# Konfigurierbarkeit (Anpassung des Interfaces auf die Bedürfnisse des Users)
+
+h5. Das Prinzip der Robustheit bezieht sich auf Merkmale des interaktiven Systems die ein erfolgreiches Erreichen und Bewerten der Ziele durch die Benutzer gewährleisten. Dazu gehören:
+
+# Beobachtbarkeit (Ausprägungen am interface die die es dem Benutzer erlauben den internen Systemzustand anhand perzipierenden Repräsentationen angemessen zu bewerten),
+# Wiederherstellbarkeit (Möglichkeit fehlerhafte Aktionen vollständig zu korrigieren),
+# Responsiveness - Kommukative Aufgeschlossenheit - Empfindung bzgl. der Kommunikation zum System,
+# Aufgabenangemessenheit - Der Grad und die Ausprägung der Aufgabenunterstützung durch das System aus Benutzersicht.
+
+h4. Standards
+
+* Nationale, Internationale Standards für die Qualitätsaspekte der Benutzbarkeit und Aufgabenangemessenheit von Systemen
+* Ergonomische (nicht technische) Normen
+* Unabhängig von konkreten Ausprägungen des Anwendungsobjektes, allgemein, abstrakt
+* Mit Beispielen untermalt
+* Konkretisierung mit auf die Normen zugeschnittener Fragebögen möglich
+
+Zu beachten ist, Wissensbereiche der Grundlagenforschung haben noch viele offene Fragen - was sich auf die MCI auswirkt und die fortschreitende technik lässt neue Rahmenbedingungen in der MCI entstehen. Standarts sind deshalb allgemeiner Art und beziehen sich auf den aktuellen Kentnissstand hinsichtlich der Wissenschaftlilchen Grundlagen.
+
+h4. Guidelines
+
+Konkretere Regelwerke die den Grad der Grundkompetenz von Entwicklern reduzieren.
+
+Können abstrackt oder spezifischer sein.
+
+Gemeinsamkeiten von verschiedenen Guidlines:
+* geben Entwicklern für Entwickler interaktiver Systeme (unterschiedliche Charaktere)
+* Beziehen sich vornehmlich auf die *usability* - *Gebrauchstauglichkeit*
+
+Haben einen bestimmetn Geltungsbereich:
+* Interaktionsparadigma
+* Interaktionsstyl
+* Interaktionsmodus
+* Sprache der Schnittstelle - Kommunikation zwischen dem Subsystem und dem Nutzer
+
+Guidelines können:
+* in bestimmten Firmen verbindlichen Charakter haben
+* von Herstellern von technischen Plattformen öffentlich gemacht werden (Hilfestellung für Entwickler)
+* *Ziel:* sichern der Konsistenz über Anwendungszenarion auf der technischen Plattform
+
+Beispiele von Guidlines:
+s. Skript
+
+Beispiele vom Apple human interfaces:
+s. Skript
+
+h4. Heuristiken - Goldene Regeln
+
+Kommen ohne fundierten Grundlagenwissen der Entwickler aus.
+
+Die Regeln sind bezogen auf:
+* Gestaltungsziele
+* Evaluation der Zielerreichung
+
+h5. Acht goldenen Regeln von Ben Shneiderman
+
+h5. Sieben Prinzipien von Donald Norman
+
+h5. Heuristiken von Jakob Nielsen
+
+h4. Pattern
+
+Von _Christopher Alexander_, Architektur
+p=. _Ist es sinnvoll wenn Architekten neue Gebäude immer wieder komplett neu entwerfen?_
+
+*Pattern*
+
+table{border:1px solid black}. 
+|Als Pattern bezeichnet man eine erfolgreiche, invariante Lösung eines grundlegendem Gestaltungsproblems innerhalb einer Domäne|
+
+Er hat Artefakte gestaltet die immer unabhängig von der Kultur und dem Geographischen und zeitlich historischem Rahmenbedingungen waren: Wasserstelle, Feuerstelle, ...
+
+*Pattern*
+
+table{border:1px solid black}. 
+|Pattern stellen das Wissen um die _best practice_ abstrahiert zur Verfügung: _light on two sides of every room_|
+
+* abstrahiertes Wissen
+* keine konkreten Rahmenbedingungen
+* Implementierung, Einbindung hängt von den konkreten Umständen der *Gestaltungsaufgabe* und der *Gestaltungskompetenz* des Entwicklers ab.
+
+*Pattern language*
+table{border:1px solid black}. 
+|Einzelne Pattern werden zusammengefügt.|
+
+* Pattern stehen nicht alleine dar - Bezug auf andere Pattern
+* Pattern werden zusammengefügt, die Sprache formt die Bestandteile zum Ganzen -> finden einer kohärenten Gestaltungslösung
+
+*Pattern design*
+table{border:1px solid black}. 
+|Oberbegriff für Pattern und Patternlanguage|
+
+*Merkmale von Pattern und Patternlanguages*
+# Generatives Konzept für vollständiges Design
+# Basieren auf der Praxis
+# Aggregiertes Wissen über erfolgreiche Gestaltungslösungen
+# Pest Practice Lösungen - das *was* gut ist - Sagen aber *nicht* *wie* es umzusetzen ist
+# Natürlichsprachlich formuliert - gut für die Kommunikation mit Stakelholdern
+# Repräsentation von Wisen über praxisorientierte Gestaltungslösungen auf verschiedenen Ebenen:
+** widgets-Ebene
+** aufgaben-bezogene Ebene
+** organisatiorische Ebene
+** soziale Ebene
+** konzeptuelle Ebene
+
+h4. Patterns von Tidwell
+
+....
+
+h3. Fragen
+
+h4. Erklären sie den Begriff: Standard, Guidlines, Heuristiken, Prinzipien und Normen
+
+...
+
+h4. Was ist ein Pattern?
+
+h4. Was ist Pattern design
+
+h4. Was ist Pattern language
+
+h4. Nennen sie Eigenschaften und Charakteristiken von Pattern und Pattern language
+
+h4. Welche Arten von Gestaltungsregeln kennen Sie?
+
+h4. Nennen Sie jeweils die wesentlichen Charakteristika der unter 1. genannten Regelwerke
+
+h4. Nennen Sie Gründe für und gegen die Verwendung von golden Rules und Heuristiken
+
+h4. Wenden Sie die zehn Heuristiken zur Gebrauchstauglichkein nach Nielsen auf eine Web-Seite und eine Standard-Anwendung Ihrer Wahl an
+
+h4. Was versteht man unter einem _pattern_
+
+h4. Was sind die Vorteile einer pattern-basierten Gestaltung der Benutzungsschnittstelle?
+
